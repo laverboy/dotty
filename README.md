@@ -4,6 +4,8 @@ _"Dotty is a very nice girl, but she doesn't have a lot to say."_
 
 A simple class to get a value, or values, from an array, or many arrays, using dot notation.
 
+[![Build Status](https://travis-ci.org/laverboy/dotty.svg?branch=master)](https://travis-ci.org/laverboy/dotty)
+
 ## Usage
 
     $array_to_search = [
